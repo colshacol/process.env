@@ -1,0 +1,26 @@
+{
+  "name": "process.env",
+  "version": "0.0.0",
+  "description": "Import your environment variables.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colshacol/process.env.git"
+  },
+  "keywords": [
+    "process",
+    "env"
+  ],
+  "author": "Colton Colcleasure <colshacol@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colshacol/process.env/issues"
+  },
+  "homepage": "https://github.com/colshacol/process.env#readme",
+  "devDependencies": {
+    "np": "^5.0.3"
+  }
+}
